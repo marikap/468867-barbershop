@@ -1,0 +1,16 @@
+body {
+  font-family: "Myriad Pro", Arial, sans-serif;
+  font-size: 14px;
+  line-height: 24px;
+  font-weight: 400;
+  color: #000000;
+  background-color: #000000;
+  text-transform: uppercase;
+}
+h1,
+h2,
+h3{
+  font-size: 30px;
+  line-height: 36px;
+  font-weight: bolder;
+}
